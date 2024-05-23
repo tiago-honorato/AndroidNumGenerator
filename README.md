@@ -1,10 +1,7 @@
-# Random Number Generator App
-
-## Descrição
-
+# Random Number Generator App 🎲
 O Random Number Generator App é um aplicativo Android simples que gera um número aleatório entre 0 e 10 quando o usuário aperta um botão. Este projeto serve como um exemplo básico de desenvolvimento de aplicativos Android usando Kotlin.
 
-## Funcionalidade
+## Funcionalidade 📊
 
 - Geração de número aleatório entre 0 e 10
 
@@ -14,12 +11,12 @@ O Random Number Generator App é um aplicativo Android simples que gera um núme
 
 <img src="https://github.com/tiago-honorato/AndroidNumGenerator/assets/85461392/7611f7ae-0636-46d6-b31a-f6637b537465" alt="Screenshot 1" width="300"/>
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas ⚙️
 
 - [Kotlin](https://kotlinlang.org/)
 - [Android Studio](https://developer.android.com/studio)
 
-#Instalação:
+## Instalação 🔧
 
-1. Baixe o arquivo `application.apk`
+1. Baixe o arquivo `application.apk` do repositório
 2. Instale em seu *dispositivo android*
