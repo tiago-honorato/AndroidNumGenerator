@@ -21,4 +21,5 @@ O Random Number Generator App é um aplicativo Android simples que gera um núme
 
 #Instalação:
 
-1. Baixe o arquivo
+1. Baixe o arquivo `application.apk`
+2. Instale em seu *dispositivo android*
